@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack Pro",
+  "description": "A personal finance tracking application to manage income, expenses, and investments. It features a dashboard for summaries and detailed pages for each category.",
+  "requestFramePermissions": []
+}
